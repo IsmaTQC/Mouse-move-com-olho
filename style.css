@@ -1,0 +1,10 @@
+.olhos{
+    display: flex;
+    transform-origin: center center;
+    padding: 20px;
+}
+
+img{
+    width: 100px;
+    padding: 5px;
+}
